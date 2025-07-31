@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Problem Solver and Coder from India</h3>
 
 <p align="center">
- <img src="http://googleusercontent.com/image_collection/image_retrieval/9606830517215061397_1" alt="GitHub Enthusiast GIF" width="200" height="200"/>
+ <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="GitHub Enthusiast GIF" width="200" height="200"/>
 </p>
 
 ---
