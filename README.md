@@ -3,6 +3,8 @@
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="GitHub Enthusiast GIF" width="200" height="200"/>
+  <img src="<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/3c1d9674-4039-40f0-91c1-fd4de5a9451e" />
+" alt="GitHub Enthusiast GIF" width="200" height="200"/>
 </p>
 
 ---
