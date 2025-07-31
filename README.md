@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Problem Solver and Coder from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oWz4c0E09q2L1xXh22/giphy.gif" alt="Coding GIF" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/qgM96yP59qQyI/giphy.gif" alt="Coding GIF" width="200" height="200"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="http://www.linkedin.com/payalshinde" target="_blank">
+  <a href="http://www.linkedin.com/in/payalshinde" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.hackerrank.com/profile/shindepayalvd" target="_blank">
@@ -39,20 +39,20 @@
 
 ### 🛠 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,kotlin,js,html,css,cpp,c,mongodb,mysql,firebase,git,github,vscode,androidstudio,linux,intellij,replit,anaconda" />
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,js,html,css,c,cpp,mongodb,mysql,firebase,git,github,vscode,androidstudio,linux,intellij,replit,anaconda" />
 </p>
 
 ---
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shindepayalvd&show_icons=true&theme=radical&hide_border=true" alt="Payal's GitHub Stats" style="width: 48%; display: inline-block;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shindepayalvd&theme=radical&hide_border=true" alt="Payal's GitHub Streak" style="width: 48%; display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Payal1726&show_icons=true&theme=radical&hide_border=true" alt="Payal's GitHub Stats" style="width: 48%; display: inline-block;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Payal1726&theme=radical&hide_border=true" alt="Payal's GitHub Streak" style="width: 48%; display: inline-block;"/>
 </p>
 
 ### 📊 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindepayalvd&layout=compact&theme=radical&hide_border=true" alt="Payal's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal1726&layout=compact&theme=radical&hide_border=true" alt="Payal's Top Languages"/>
 </p>
 
 ---
