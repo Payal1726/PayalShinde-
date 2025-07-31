@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Problem Solver and Coder from India</h3>
 
 <p align="center">
-
-  <img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM5Njg2MzIsIm5iZiI6MTc1Mzk2ODMzMiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMxVDEzMjUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiZDgyN2MxMWNmODIyZGRkZjA5MzVjNWJjOTg2NmY0ZGIzZTViNWY2NDk4MjRmNjI1YTYxYWYyZmYzMTNlYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vomcJ89oN2BFnTBtDaqDZppMlV7-e4NxAacRc0giOfk" alt="GitHub Enthusiast GIF" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="GitHub Enthusiast GIF" width="200" height="200"/>
+ 
   
 </p>
 
